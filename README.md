@@ -12,6 +12,24 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       1 hr 21 mins        ███████████████░░░░░░░░░░   62.66% 
+Other                    35 mins             ███████░░░░░░░░░░░░░░░░░░   27.61% 
+CSHTML                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
+
+🔥 Editors: 
+Visual Studio            2 hrs 10 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Esabora.Business         1 hr 6 mins         ████████████░░░░░░░░░░░░░   50.98% 
+Esabora.WebAPI           51 mins             █████████░░░░░░░░░░░░░░░░   39.41% 
+Esabora.Portail          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.61%
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
