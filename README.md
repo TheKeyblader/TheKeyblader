@@ -4,8 +4,10 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 
 ### My Projects
 
-* [Unilonia](https://github.com/TheKeyblader/Unilonia) is my first serious open source project. 
+* [Unilonia](https://github.com/TheKeyblader/Unilonia) is my first serious open source project (actually because unity build is just too complicated)
   Unilonia allows running Avalonia on Unity.
+* [Stridelonia](https://github.com/TheKeyblader/Stridelonia) is second serious open source project
+  Stride allows running Avalonia on Stride
   
 ### Some Stats
 
