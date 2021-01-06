@@ -8,7 +8,11 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
   Unilonia allows running Avalonia on Unity.
 * [Stridelonia](https://github.com/TheKeyblader/Stridelonia) is second serious open source project
   Stride allows running Avalonia on Stride
-  
+
+### School Project
+
+* __EnxAnalytics__ website which allows generating and process data about  students and does machine learning including this data 
+
 ### Some Stats
 
 <!--START_SECTION:waka-->
