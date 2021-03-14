@@ -27,3 +27,45 @@ For me, scripting in the editor is interesting when you do fast prototyping or W
 or project system (.sln)
 
 Anything that relies on editing non-specific stride files shouldn't be inside the game editor.
+
+Ok cool, we define what we want, now.
+
+## Second. How to implement it?
+
+To develop our new editor, we need a UI framework.
+so what we have?
+
+### UI Framework
+
+#### HTML based UI
+- PRO
+  - Very beautifull editor.
+
+- CONS
+  - Additional Builds steps and dependencies (NodeJS, npm).
+  - Contributors need more knowledge (Mainly Rendering framework React, VueJS, ...).
+  - Not everyone is a web developer.
+#### C++
+- PRO
+  - Lots of proven solutions.
+  - Fast
+- CONS
+  - C++ (Noob will not like but we can helper API in C#)
+
+#### C#
+
+So what we have in C#?
+- [MAUI / Xamarin forms](https://github.com/dotnet/maui)
+- [Avalonia](http://avaloniaui.net/)
+- [Uno](https://platform.uno/)
+
+This solution uses Xaml, supports all desktop platforms, and can support backend integration in Stride.
+So they are the same, except for few things.
+
+Avalonia uses a custom Xaml flavor.
+MAUI uses a rendering method that needs more work for backend integration.
+
+They can all work with MVVM libraries.
+And they have all the same problem, I think Xaml styling is a lot more complicated than CSS.
+
+To conclude, it to the community to decide what framework to choose.
