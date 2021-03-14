@@ -49,10 +49,10 @@ so what we have?
   - Contributors need more knowledge (Mainly Rendering framework React, VueJS, ...).
   - Not everyone is a web developer.
 #### C++
-- PRO
+- PROS
   - Lots of proven solutions.
   - Fast
-- CONS
+- CON
   - C++ (Noob will not like but we can helper API in C#)
 
 #### C#
@@ -75,7 +75,7 @@ To conclude, it to the community to decide what framework to choose.
 
 ### Extension
 
-I love this part, I passed a lot of time to think how to make the best extension and I think I arrive at something very promising.
+I love this part, I passed a lot of time to think how to make the best extension system and I think I arrive at something very promising.
 
 First what core of our editor?
 To answer this question we take Visual Studio. What we have when we install visual studio with no workload.
@@ -107,7 +107,7 @@ Core core components :
   - Drag and drop
 - Base property window (Like in visual studio)
  
- Core components (technically these components can be a plugin that will default developed):
+ Core components (technically these components can be a plugin that will default embed):
  - Assets explorer
  - Scene editor + preview
  - Game preview
