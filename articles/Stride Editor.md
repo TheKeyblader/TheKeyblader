@@ -69,3 +69,10 @@ They can all work with MVVM libraries.
 And they have all the same problem, I think Xaml styling is a lot more complicated than CSS.
 
 To conclude, it to the community to decide what framework to choose.
+
+### Extension
+
+I love this part, I passed a lot of time to think how to make the best extension and I think I arrive at something very promising.
+
+First what core of our editor?
+To answer this question we take Visual Studio. What we have when we install visual studio with no workload.
