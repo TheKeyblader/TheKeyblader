@@ -16,7 +16,7 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 📊 **This Week I Spent My Time On** 
 
