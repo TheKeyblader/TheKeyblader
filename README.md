@@ -16,19 +16,25 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               49 mins             ████████████░░░░░░░░░░░░░   47.59% 
+Other                    32 mins             ███████░░░░░░░░░░░░░░░░░░   31.28% 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
+C#                       7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         ███████████████░░░░░░░░░░   61.53% 
+Visual Studio            40 mins             █████████░░░░░░░░░░░░░░░░   38.47%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EnxFoxhole               1 hr 43 mins        █████████████████████████   99.68% 
+EnxRealEstate (School Pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 ```
 
