@@ -16,7 +16,7 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,7 +49,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 <!--
