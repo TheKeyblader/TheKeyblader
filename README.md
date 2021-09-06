@@ -16,19 +16,25 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   1 hr 29 mins        █████████████████░░░░░░░░   69.47% 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.44% 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ClientApp                1 hr 57 mins        ██████████████████████░░░   91.24% 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+EnxPortfolio             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 ```
 
@@ -49,7 +55,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
 
 <!--
