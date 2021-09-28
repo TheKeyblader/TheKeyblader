@@ -16,20 +16,22 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       29 mins             ███████████████████░░░░░░   76.48% 
-Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.52%
+C#                       4 hrs 6 mins        ██████████████████░░░░░░░   73.69% 
+Other                    1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   23.01% 
+C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
 
 🔥 Editors: 
-Visual Studio            38 mins             █████████████████████████   100.0%
+Visual Studio            5 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-All                      38 mins             █████████████████████████   100.0%
+Stride                   4 hrs 55 mins       ██████████████████████░░░   88.37% 
+All                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
 
 ```
 
@@ -50,7 +52,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 <!--
