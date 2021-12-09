@@ -22,13 +22,18 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   46 mins             ████████████████░░░░░░░░░   64.3% 
+CSS                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+jonas-cv                 1 hr 12 mins        █████████████████████████   99.86% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 ```
 
@@ -49,7 +54,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 <!--
