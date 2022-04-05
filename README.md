@@ -18,7 +18,7 @@ Some update I switched to Svelte with tailwindcss, the workflow is juste huge �
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,7 +51,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 18:41:55 UTC
+ Last Updated on 05/04/2022 18:41:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
