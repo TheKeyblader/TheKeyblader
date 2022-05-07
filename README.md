@@ -18,6 +18,8 @@ Some update I switched to Svelte with tailwindcss, the workflow is juste huge �
 ### Some Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -37,11 +39,11 @@ No Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            ████████████████░░░░░░░░░   65.38% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+C#                       14 repos            █████████████████░░░░░░░░   70.0% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
@@ -51,7 +53,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:43:00 UTC
+ Last Updated on 07/05/2022 18:41:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
