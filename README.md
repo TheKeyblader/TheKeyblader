@@ -20,7 +20,7 @@ Some update I switched to Svelte with tailwindcss, the workflow is juste huge �
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -53,7 +53,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/05/2022 18:42:45 UTC
+ Last Updated on 10/05/2022 18:42:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
