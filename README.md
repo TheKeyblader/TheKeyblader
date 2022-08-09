@@ -18,7 +18,7 @@ Some update I switched to Svelte with tailwindcss, the workflow is juste huge �
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,7 +53,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 18:40:54 UTC
+ Last Updated on 09/08/2022 18:42:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
