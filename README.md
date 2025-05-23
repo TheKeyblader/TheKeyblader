@@ -4,7 +4,7 @@ I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# f
 
 Some update I switched to Svelte with tailwindcss, the workflow is juste huge 🥳
 
-### My Projects
+### My Projects (Actually paused searching motivation and work take time :( )
 
 * [Unilonia](https://github.com/TheKeyblader/Unilonia) is my first serious open source project (actually paused because unity build is just too complicated).
   Unilonia allows running Avalonia on Unity.
