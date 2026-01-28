@@ -1,8 +1,9 @@
 ### Hello everyone 👋
 
-I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# fan (fanatic for some friends). I love working on every C# technologies like MAUI, Unity, Comos OS, Avalonia, and WPF.  But I spend most of my time on asp.net core. I also do some window server for my home lab. As every web developer, I use front-end frameworks. I use ReactJS with Mobx and Typescript (Typed languages better)
+I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# fan (fanatic for some friends). I love working on every C# technologies like MAUI, Unity, Comos OS, Avalonia, and WPF.  But I spend most of my time on asp.net core. I also do some linux server for my home lab. As every web developer, I use front-end frameworks. I use ReactJS with Typescript (Typed languages better)
 
 Some update I switched to Svelte with tailwindcss, the workflow is juste huge 🥳
+Also switch to linux cachyos awesome 
 
 ### My Projects (Actually paused searching motivation and work take time :( )
 
@@ -11,7 +12,7 @@ Some update I switched to Svelte with tailwindcss, the workflow is juste huge �
 * [Stridelonia](https://github.com/TheKeyblader/Stridelonia) is second serious open source project
   Stride allows running Avalonia on Stride
 
-### School Project
+### School Project (At Work Now !)
 
 * __EnxAnalytics__ website which allows generating and process data about  students and does machine learning including this data 
 
