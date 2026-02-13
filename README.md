@@ -4,9 +4,6 @@
 I spend most of my time deep in the .NET ecosystem: backend with ASP.NET Core,
 desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
-I've positioned myself as **the .NET Linux guy** and I'm on my way to becoming
-a Microsoft MVP in the .NET category.
-
 ### What I'm working on
 - 🔧 **[Enx.Systemd](https://github.com/TheKeyblader/Enx.Systemd)** — A .NET library for systemd integration on Linux
 - 🌐 **SoftEther VPN Web Admin** — A modern SvelteKit + shadcn/Tailwind interface
