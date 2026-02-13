@@ -1,20 +1,29 @@
-### Hello everyone 👋
+## Hey, I'm Jean-François Pustay (TheKeyblader) 👋
 
-I'm Jean-François Pustay (aka TheKeyblader) a lazy french developer. I'm a C# fan (fanatic for some friends). I love working on every C# technologies like MAUI, Unity, Comos OS, Avalonia, and WPF.  But I spend most of my time on asp.net core. I also do some linux server for my home lab. As every web developer, I use front-end frameworks. I use ReactJS with Typescript (Typed languages better)
+.NET developer with a thing for Linux — yes, both at once.
+I spend most of my time deep in the .NET ecosystem: backend with ASP.NET Core,
+desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
-Some update I switched to Svelte with tailwindcss, the workflow is juste huge 🥳
-Also switch to linux cachyos awesome 
+I've positioned myself as **the .NET Linux guy** and I'm on my way to becoming
+a Microsoft MVP in the .NET category.
 
-### My Projects (Actually paused searching motivation and work take time :( )
+### What I'm working on
+- 🔧 **[Enx.Systemd](https://github.com/TheKeyblader/Enx.Systemd)** — A .NET library for systemd integration on Linux
+- 🌐 **SoftEther VPN Web Admin** — A modern SvelteKit + shadcn/Tailwind interface
+  for SoftEther VPN ([PR #2227](https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2227) in progress)
 
-* [Unilonia](https://github.com/TheKeyblader/Unilonia) is my first serious open source project (actually paused because unity build is just too complicated).
-  Unilonia allows running Avalonia on Unity.
-* [Stridelonia](https://github.com/TheKeyblader/Stridelonia) is second serious open source project
-  Stride allows running Avalonia on Stride
+### My stack
+- **Backend:** .NET Core / ASP.NET Core / C#
+- **Desktop:** Avalonia
+- **Frontend:** Svelte + Tailwind (personal) · React / VueJS + TypeScript (professional)
+- **DB:** RavenDB (personal) / SQL Server (professional)
+- **OS:** Linux (CachyOS) · and proud of it
 
-### School Project (At Work Now !)
+### Past experiments
+- **Unilonia** — Avalonia running inside Unity (paused — Unity's build pipeline won)
+- **Stridelonia** — Avalonia running inside Stride (paused — code complexity fear me)
 
-* __EnxAnalytics__ website which allows generating and process data about  students and does machine learning including this data 
+> "I don't abandon projects. I pause them with dignity." 😂
 
 ### Some Stats
 
