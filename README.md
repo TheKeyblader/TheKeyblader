@@ -25,9 +25,9 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -46,18 +46,18 @@ Sunday                   117 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   1 hr 53 mins        ████████████████░░░░░░░░░   63.61 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-C                        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Svelte                   3 hrs 18 mins       ██████████████████░░░░░░░   71.04 % 
+TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             2 hrs 57 mins       █████████████████████████   99.36 % 
-svelte-admin             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+SoftEtherVPN             4 hrs 38 mins       █████████████████████████   99.59 % 
+svelte-admin             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 18:49:11 UTC
+ Last Updated on 14/02/2026 18:47:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
