@@ -6,7 +6,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
 ### What I'm working on
 - 🔧 **[Enx.Systemd](https://github.com/TheKeyblader/Enx.Systemd)** — A .NET library for systemd integration on Linux
-- 🌐 **SoftEther VPN Web Admin** — A modern SvelteKit + shadcn/Tailwind interface
+- 🌐 **SoftEther VPN Web Admin** — A modern SvelteKit + daisyui/Tailwind interface
   for SoftEther VPN ([PR #2227](https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2227) in progress)
 
 ### My stack
