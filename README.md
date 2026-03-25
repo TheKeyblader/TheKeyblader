@@ -46,17 +46,13 @@ Sunday                   120 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   1 hr 31 mins        ████████████████████████░   97.02 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SoftEtherVPN             1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -76,7 +72,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2026 18:50:33 UTC
+ Last Updated on 25/03/2026 18:50:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
