@@ -25,7 +25,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,7 +79,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 19:10:11 UTC
+ Last Updated on 14/05/2026 19:09:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
