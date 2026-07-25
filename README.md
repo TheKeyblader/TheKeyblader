@@ -25,6 +25,8 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
@@ -44,18 +46,18 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   1 hr 20 mins        ██████████████░░░░░░░░░░░   54.31 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-TSConfig                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Svelte                   1 hr 54 mins        ███████████████░░░░░░░░░░   60.20 % 
+JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TSConfig                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        ██████████████░░░░░░░░░░░   56.67 % 
-Claude Code              1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.33 % 
+VS Code                  2 hrs 6 mins        █████████████████░░░░░░░░   66.32 % 
+Claude Code              1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   33.68 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             2 hrs 27 mins       █████████████████████████   100.00 % 
+SoftEtherVPN             3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -75,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:18 UTC
+ Last Updated on 25/07/2026 19:43:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
