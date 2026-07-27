@@ -25,7 +25,9 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -60,6 +62,28 @@ Claude Code              1 hr 4 mins         ████████░░░�
 SoftEtherVPN             3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 28 mins (46.54%)
+
+✍️ 613 lines written by AI, 72 lines written by hand (89.49% AI-written)
+
+🔤 75,916,332 Input Tokens, 172,318 Output Tokens
+
+💵 $382.96 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 12 AI Prompts
+
+Opus                     668 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.49% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 19.81% of changed lines were hand-edited
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -77,7 +101,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:45:25 UTC
+ Last Updated on 27/07/2026 20:04:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
