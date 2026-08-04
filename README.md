@@ -25,22 +25,22 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 
@@ -48,42 +48,42 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   10 hrs 8 mins       ████████████████░░░░░░░░░   63.12 % 
-TypeScript               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Svelte                   11 hrs 9 mins       █████████████████░░░░░░░░   66.97 % 
+TypeScript               3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 51 mins      ████████████████████░░░░░   79.95 % 
-Claude Code              3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+VS Code                  14 hrs              █████████████████████░░░░   84.06 % 
+Claude Code              2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             16 hrs 4 mins       █████████████████████████   100.00 % 
+SoftEtherVPN             16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (27.75%)
+⏱ AI Coding Time: 3 hrs 51 mins (23.19%)
 
-✍️ 1,940 lines written by AI, 1,273 lines written by hand (60.38% AI-written)
+✍️ 1,536 lines written by AI, 1,471 lines written by hand (51.08% AI-written)
 
-🔤 105,572,537 Input Tokens, 307,136 Output Tokens
+🔤 64,373,764 Input Tokens, 231,252 Output Tokens
 
-💵 $535.12 Estimated AI Cost This Week
+💵 $354.31 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 37 AI Prompts
+🧠 6 AI Sessions, 31 AI Prompts
 
-Opus                     2,101 lines         █████████████████████████   98.78 % 
-Haiku                    26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,500 lines         ██████████████████████░░░   88.97 % 
+Sonnet                   160 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Haiku                    26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.38% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 54.23% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.08% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 62.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:44:04 UTC
+ Last Updated on 04/08/2026 20:10:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
