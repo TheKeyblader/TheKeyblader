@@ -25,7 +25,66 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2016%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Svelte                   10 hrs 50 mins      ███████████████████░░░░░░   75.49 % 
+TypeScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 24 mins      ████████████████████░░░░░   79.37 % 
+Claude Code              2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+
+🐱‍💻 Projects: 
+SoftEtherVPN             14 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 46 mins (33.24%)
+
+✍️ 1,444 lines written by AI, 1,691 lines written by hand (46.06% AI-written)
+
+🔤 56,360,033 Input Tokens, 252,718 Output Tokens
+
+💵 $336.05 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 36 AI Prompts
+
+Opus                     1,430 lines         ██████████████████████░░░   89.71 % 
+Sonnet                   164 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 46.06% of written lines came from AI
+📝 Concise Prompter — average 263 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 65.68% of changed lines were hand-edited
+```
 
 **I Mostly Code in C#** 
 
@@ -44,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:25:09 UTC
+ Last Updated on 07/08/2026 19:30:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
