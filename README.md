@@ -25,9 +25,9 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -48,42 +48,45 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   10 hrs 50 mins      ███████████████████░░░░░░   75.49 % 
-TypeScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Svelte                   10 hrs 56 mins      ███████████████████░░░░░░   74.16 % 
+TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 24 mins      ████████████████████░░░░░   79.37 % 
-Claude Code              2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+VS Code                  11 hrs 21 mins      ███████████████████░░░░░░   76.97 % 
+Claude Code              3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             14 hrs 22 mins      █████████████████████████   100.00 % 
+SoftEtherVPN             14 hrs 34 mins      █████████████████████████   98.87 % 
+Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 46 mins (33.24%)
+⏱ AI Coding Time: 5 hrs 43 mins (38.84%)
 
-✍️ 1,444 lines written by AI, 1,691 lines written by hand (46.06% AI-written)
+✍️ 1,730 lines written by AI, 1,670 lines written by hand (50.88% AI-written)
 
-🔤 56,360,033 Input Tokens, 252,718 Output Tokens
+🔤 59,202,777 Input Tokens, 308,861 Output Tokens
 
-💵 $336.05 Estimated AI Cost This Week
+💵 $344.50 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 36 AI Prompts
+🧠 10 AI Sessions, 42 AI Prompts
 
-Opus                     1,430 lines         ██████████████████████░░░   89.71 % 
-Sonnet                   164 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Opus                     1,430 lines         ███████████████████░░░░░░   74.95 % 
+Sonnet                   478 lines           ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.06% of written lines came from AI
-📝 Concise Prompter — average 263 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 65.68% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.88% of written lines came from AI
+📝 Concise Prompter — average 242 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 61.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:30:04 UTC
+ Last Updated on 08/08/2026 19:09:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
