@@ -29,7 +29,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -48,45 +48,44 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   10 hrs 56 mins      ███████████████████░░░░░░   74.16 % 
-TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Svelte                   7 hrs 2 mins        ███████████████████░░░░░░   76.75 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 21 mins      ███████████████████░░░░░░   76.97 % 
-Claude Code              3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+VS Code                  8 hrs 2 mins        ██████████████████████░░░   87.71 % 
+Claude Code              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             14 hrs 34 mins      █████████████████████████   98.87 % 
-Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+SoftEtherVPN             9 hrs               █████████████████████████   98.19 % 
+Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (38.84%)
+⏱ AI Coding Time: 2 hrs 47 mins (30.51%)
 
-✍️ 1,730 lines written by AI, 1,670 lines written by hand (50.88% AI-written)
+✍️ 450 lines written by AI, 887 lines written by hand (33.66% AI-written)
 
-🔤 59,202,777 Input Tokens, 308,861 Output Tokens
+🔤 11,486,638 Input Tokens, 95,511 Output Tokens
 
-💵 $344.50 Estimated AI Cost This Week
+💵 $25.50 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 42 AI Prompts
+🧠 8 AI Sessions, 15 AI Prompts
 
-Opus                     1,430 lines         ███████████████████░░░░░░   74.95 % 
-Sonnet                   478 lines           ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Sonnet                   478 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.88% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 61.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.66% of written lines came from AI
+📝 Concise Prompter — average 449 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 75.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -106,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:09:09 UTC
+ Last Updated on 09/08/2026 19:12:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
