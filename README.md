@@ -48,44 +48,46 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   7 hrs 2 mins        ███████████████████░░░░░░   76.75 % 
-TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-C                        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Svelte                   7 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.86 % 
+SQL                      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        ██████████████████████░░░   87.71 % 
-Claude Code              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+VS Code                  9 hrs               ████████████████░░░░░░░░░   63.78 % 
+Claude Code              5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.22 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             9 hrs               █████████████████████████   98.19 % 
-Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+SoftEtherVPN             9 hrs               ████████████████░░░░░░░░░   63.79 % 
+EnxGouv                  4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (30.51%)
+⏱ AI Coding Time: 7 hrs 5 mins (50.28%)
 
-✍️ 450 lines written by AI, 887 lines written by hand (33.66% AI-written)
+✍️ 4,710 lines written by AI, 1,149 lines written by hand (80.39% AI-written)
 
-🔤 11,486,638 Input Tokens, 95,511 Output Tokens
+🔤 12,207,661 Input Tokens, 437,420 Output Tokens
 
-💵 $25.50 Estimated AI Cost This Week
+💵 $91.23 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 15 AI Prompts
+🧠 12 AI Sessions, 56 AI Prompts
 
-Sonnet                   478 lines           █████████████████████████   100.00 % 
+Opus                     4,285 lines         ██████████████████████░░░   89.96 % 
+Sonnet                   478 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.66% of written lines came from AI
-📝 Concise Prompter — average 449 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 75.86% of changed lines were hand-edited
+🤖 AI-Driven — 80.39% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 27.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -105,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:12:16 UTC
+ Last Updated on 10/08/2026 19:31:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
