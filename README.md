@@ -34,13 +34,13 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
 
 
@@ -48,46 +48,47 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   5 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.60 % 
-SQL                      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+SQL                      2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+Svelte                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+C#                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       ██████████████░░░░░░░░░░░   57.74 % 
-Claude Code              5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.26 % 
+Claude Code              4 hrs 47 mins       ██████████████░░░░░░░░░░░   57.48 % 
+VS Code                  3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.59 % 
+Rider                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             6 hrs 55 mins       ██████████████░░░░░░░░░░░   57.56 % 
-EnxGouv                  4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
-Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-thekeyblader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+EnxGouv                  4 hrs 43 mins       ██████████████░░░░░░░░░░░   56.78 % 
+SoftEtherVPN             2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Enx.Atomic.Avalonia      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (55.49%)
+⏱ AI Coding Time: 5 hrs 43 mins (68.78%)
 
-✍️ 4,550 lines written by AI, 936 lines written by hand (82.94% AI-written)
+✍️ 4,969 lines written by AI, 5,221 lines written by hand (48.76% AI-written)
 
-🔤 11,939,140 Input Tokens, 433,641 Output Tokens
+🔤 11,140,069 Input Tokens, 468,302 Output Tokens
 
-💵 $90.97 Estimated AI Cost This Week
+💵 $90.36 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 55 AI Prompts
+🧠 9 AI Sessions, 49 AI Prompts
 
-Opus                     4,285 lines         ██████████████████████░░░   89.96 % 
-Sonnet                   478 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Opus                     4,285 lines         █████████████████████░░░░   82.26 % 
+Sonnet                   924 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.94% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
+⚖️ Balanced with AI — 48.76% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 24.28% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -107,7 +108,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:36:05 UTC
+ Last Updated on 12/08/2026 19:37:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
