@@ -25,9 +25,9 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,47 +48,47 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Svelte                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-C#                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+SQL                      2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Markdown                 1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Svelte                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C#                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 47 mins       ██████████████░░░░░░░░░░░   57.48 % 
-VS Code                  3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.59 % 
-Rider                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Claude Code              4 hrs 35 mins       ████████████████░░░░░░░░░   62.19 % 
+VS Code                  2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Rider                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🐱‍💻 Projects: 
-EnxGouv                  4 hrs 43 mins       ██████████████░░░░░░░░░░░   56.78 % 
-SoftEtherVPN             2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Enx.Atomic.Avalonia      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+EnxGouv                  4 hrs 43 mins       ████████████████░░░░░░░░░   63.96 % 
+SoftEtherVPN             1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Enx.Atomic.Avalonia      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (68.78%)
+⏱ AI Coding Time: 5 hrs 31 mins (74.72%)
 
-✍️ 4,969 lines written by AI, 5,221 lines written by hand (48.76% AI-written)
+✍️ 4,965 lines written by AI, 5,133 lines written by hand (49.17% AI-written)
 
-🔤 11,140,069 Input Tokens, 468,302 Output Tokens
+🔤 3,650,954 Input Tokens, 437,515 Output Tokens
 
-💵 $90.36 Estimated AI Cost This Week
+💵 $76.39 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 49 AI Prompts
+🧠 8 AI Sessions, 48 AI Prompts
 
 Opus                     4,285 lines         █████████████████████░░░░   82.26 % 
 Sonnet                   924 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.76% of written lines came from AI
+⚖️ Balanced with AI — 49.17% of written lines came from AI
 📝 Concise Prompter — average 134 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 52.16% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 51.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:37:52 UTC
+ Last Updated on 13/08/2026 19:35:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
