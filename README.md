@@ -48,47 +48,47 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.89 % 
-Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Markdown                 1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-C#                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Svelte                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+SQL                      1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Markdown                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+C#                       36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 35 mins       █████████████████░░░░░░░░   67.07 % 
-VS Code                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Rider                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Claude Code              4 hrs 15 mins       ███████████████████░░░░░░   74.53 % 
+VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Rider                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🐱‍💻 Projects: 
-EnxGouv                  4 hrs 43 mins       █████████████████░░░░░░░░   68.98 % 
-SoftEtherVPN             1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Enx.Atomic.Avalonia      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Téléchargements          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+EnxGouv                  4 hrs 48 mins       █████████████████████░░░░   84.40 % 
+Enx.Atomic.Avalonia      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+organe                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Deputées                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (80.59%)
+⏱ AI Coding Time: 4 hrs 39 mins (81.64%)
 
-✍️ 4,965 lines written by AI, 5,032 lines written by hand (49.66% AI-written)
+✍️ 4,679 lines written by AI, 5,016 lines written by hand (48.26% AI-written)
 
-🔤 3,650,954 Input Tokens, 437,515 Output Tokens
+🔤 812,851 Input Tokens, 387,373 Output Tokens
 
-💵 $76.39 Estimated AI Cost This Week
+💵 $68.16 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 48 AI Prompts
+🧠 5 AI Sessions, 55 AI Prompts
 
-Opus                     4,285 lines         █████████████████████░░░░   82.26 % 
-Sonnet                   924 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Opus                     4,285 lines         ███████████████████████░░   90.57 % 
+Sonnet                   446 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.66% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 50.82% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.26% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 52.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:29:42 UTC
+ Last Updated on 15/08/2026 18:57:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
