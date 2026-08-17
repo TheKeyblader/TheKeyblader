@@ -48,47 +48,38 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Markdown                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-C#                       36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+C#                       36 mins             ██████████████████████░░░   89.97 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 15 mins       ███████████████████░░░░░░   74.53 % 
-VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Rider                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Rider                    29 mins             ██████████████████░░░░░░░   73.44 % 
+Claude Code              10 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
 
 🐱‍💻 Projects: 
-EnxGouv                  4 hrs 48 mins       █████████████████████░░░░   84.40 % 
-Enx.Atomic.Avalonia      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Scrutins                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-organe                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Deputées                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Enx.Atomic.Avalonia      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 39 mins (81.64%)
+⏱ AI Coding Time: 16 mins (40.25%)
 
-✍️ 4,679 lines written by AI, 5,016 lines written by hand (48.26% AI-written)
+✍️ 419 lines written by AI, 4,754 lines written by hand (8.1% AI-written)
 
-🔤 812,851 Input Tokens, 387,373 Output Tokens
+🔤 87,187 Input Tokens, 39,463 Output Tokens
 
-💵 $68.16 Estimated AI Cost This Week
+💵 $1.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 55 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     4,285 lines         ███████████████████████░░   90.57 % 
-Sonnet                   446 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   446 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.26% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 52.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.1% of written lines came from AI
+📝 Concise Prompter — average 347 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 91.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:56:50 UTC
+ Last Updated on 17/08/2026 19:08:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
