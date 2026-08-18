@@ -25,7 +25,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2047%20mins-blue?style=flat)
 
@@ -48,24 +48,27 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       36 mins             ██████████████████████░░░   89.97 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+C#                       36 mins             ██████████████░░░░░░░░░░░   57.88 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Svelte                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Rider                    29 mins             ██████████████████░░░░░░░   73.44 % 
-Claude Code              10 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Rider                    29 mins             ████████████░░░░░░░░░░░░░   47.24 % 
+VS Code                  22 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
+Claude Code              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 
 🐱‍💻 Projects: 
-Enx.Atomic.Avalonia      40 mins             █████████████████████████   100.00 % 
+Enx.Atomic.Avalonia      40 mins             ████████████████░░░░░░░░░   64.33 % 
+SoftEtherVPN             22 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (40.25%)
+⏱ AI Coding Time: 16 mins (25.89%)
 
-✍️ 419 lines written by AI, 4,754 lines written by hand (8.1% AI-written)
+✍️ 419 lines written by AI, 4,771 lines written by hand (8.07% AI-written)
 
 🔤 87,187 Input Tokens, 39,463 Output Tokens
 
@@ -76,10 +79,10 @@ Enx.Atomic.Avalonia      40 mins             ███████████�
 Sonnet                   446 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.1% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.07% of written lines came from AI
 📝 Concise Prompter — average 347 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 91.7% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -99,7 +102,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:08:57 UTC
+ Last Updated on 18/08/2026 19:08:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
