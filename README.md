@@ -25,22 +25,22 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Tuesday                  170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
@@ -48,22 +48,41 @@ Sunday                   133 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   1 hr 19 mins        ██████████████████████░░░   86.09 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Svelte                   1 hr 29 mins        ████████████████░░░░░░░░░   63.37 % 
+C                        19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+XML                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        ████████████████████░░░░░   78.95 % 
+Claude Code              29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             1 hr 32 mins        █████████████████████████   100.00 % 
+SoftEtherVPN             1 hr 42 mins        ██████████████████░░░░░░░   72.53 % 
+MyQtApp                  38 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (21.72%)
+
+✍️ 0 lines written by AI, 243 lines written by hand (0.0% AI-written)
+
+🔤 50,700 Input Tokens, 21,196 Output Tokens
+
+💵 $0.74 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 27 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 127 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -83,7 +102,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:59:18 UTC
+ Last Updated on 23/08/2026 18:58:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
