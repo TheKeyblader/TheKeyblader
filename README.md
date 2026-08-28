@@ -25,22 +25,22 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 
 
@@ -48,45 +48,45 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.02 % 
-Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-XML                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-XAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-C                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+C#                       8 hrs 2 mins        █████████████░░░░░░░░░░░░   53.38 % 
+Markdown                 2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+XML                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+XAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+C                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 7 mins        █████████████░░░░░░░░░░░░   52.74 % 
-Rider                    4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.18 % 
-VS Code                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Claude Code              8 hrs 10 mins       ██████████████░░░░░░░░░░░   54.24 % 
+Rider                    6 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.28 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🐱‍💻 Projects: 
-Enx.Atomic.Avalonia      9 hrs 32 mins       █████████████████████░░░░   82.07 % 
-MyQtApp                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-unocss                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-SoftEtherVPN             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Enx.Atomic.Avalonia      12 hrs 58 mins      ██████████████████████░░░   86.16 % 
+MyQtApp                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+unocss                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+SoftEtherVPN             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 23 mins (80.86%)
+⏱ AI Coding Time: 11 hrs 56 mins (79.35%)
 
-✍️ 6,797 lines written by AI, 137 lines written by hand (98.02% AI-written)
+✍️ 7,892 lines written by AI, 235 lines written by hand (97.11% AI-written)
 
-🔤 3,869,396 Input Tokens, 885,653 Output Tokens
+🔤 4,435,940 Input Tokens, 1,077,968 Output Tokens
 
-💵 $117.73 Estimated AI Cost This Week
+💵 $136.75 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 215 AI Prompts
+🧠 7 AI Sessions, 252 AI Prompts
 
-Sonnet                   7,752 lines         █████████████████████████   100.00 % 
+Sonnet                   8,872 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📚 Verbose Prompter — average 2,802 characters per prompt
-🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 2.05% of changed lines were hand-edited
+🤖 AI-Driven — 97.11% of written lines came from AI
+📚 Verbose Prompter — average 3,084 characters per prompt
+🔁 Iterative Prompter — average 36 prompts per session
+🚀 High AI Trust — 3.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -106,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:35:42 UTC
+ Last Updated on 28/08/2026 02:17:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
