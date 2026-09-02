@@ -48,40 +48,40 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 35 mins       █████████████████░░░░░░░░   67.00 % 
-Markdown                 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-XAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+C#                       2 hrs 20 mins       █████████████████░░░░░░░░   68.18 % 
+Markdown                 59 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+XML Solution File        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 18 mins       ███████████████░░░░░░░░░░   59.60 % 
-Rider                    1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   40.40 % 
+Claude Code              2 hrs 1 min         ███████████████░░░░░░░░░░   59.10 % 
+Rider                    1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.90 % 
 
 🐱‍💻 Projects: 
-Enx.Atomic.Avalonia      3 hrs 52 mins       █████████████████████████   100.00 % 
+Enx.Atomic.Avalonia      3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (75.96%)
+⏱ AI Coding Time: 2 hrs 32 mins (74.27%)
 
-✍️ 1,191 lines written by AI, 98 lines written by hand (92.4% AI-written)
+✍️ 1,095 lines written by AI, 98 lines written by hand (91.79% AI-written)
 
-🔤 646,608 Input Tokens, 232,469 Output Tokens
+🔤 566,544 Input Tokens, 192,315 Output Tokens
 
-💵 $37.87 Estimated AI Cost This Week
+💵 $32.40 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 48 AI Prompts
+🧠 2 AI Sessions, 37 AI Prompts
 
-Sonnet                   1,391 lines         █████████████████████████   100.00 % 
+Sonnet                   1,353 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.4% of written lines came from AI
-📚 Verbose Prompter — average 3,652 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 10.05% of changed lines were hand-edited
+🤖 AI-Driven — 91.79% of written lines came from AI
+📚 Verbose Prompter — average 4,721 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 10.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -101,7 +101,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:14:17 UTC
+ Last Updated on 02/09/2026 21:13:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
