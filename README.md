@@ -25,7 +25,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2044%20mins-blue?style=flat)
 
@@ -48,17 +48,18 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     1 min               █████████░░░░░░░░░░░░░░░░   37.36 % 
-Git Config               1 min               █████████░░░░░░░░░░░░░░░░   34.29 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Svelte                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TOML                     1 hr 1 min          ███████████████░░░░░░░░░░   58.91 % 
+Rust                     28 mins             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SoftEtherVPN             3 mins              █████████████████████████   100.00 % 
+enx_hacker               1 hr 40 mins        ████████████████████████░   96.47 % 
+SoftEtherVPN             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:32:02 UTC
+ Last Updated on 30/09/2026 22:30:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
