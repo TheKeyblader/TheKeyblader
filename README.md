@@ -25,7 +25,7 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2053%20mins-blue?style=flat)
 
@@ -48,24 +48,26 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TOML                     1 hr 19 mins        ████████████░░░░░░░░░░░░░   47.14 % 
-Rust                     1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   39.51 % 
-JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-RON                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TOML                     1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
+Rust                     1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.71 % 
+C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       ████████████████████████░   96.38 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+VS Code                  2 hrs 42 mins       ██████████████████████░░░   87.11 % 
+Rider                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-enx_hacker               2 hrs 48 mins       █████████████████████████   100.00 % 
+enx_hacker               2 hrs 48 mins       ███████████████████████░░   90.37 % 
+Enx.Atomic.Avalonia      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (5.74%)
+⏱ AI Coding Time: 9 mins (5.19%)
 
 ✍️ 314 lines written by AI, 6,721 lines written by hand (4.46% AI-written)
 
@@ -101,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:39:53 UTC
+ Last Updated on 04/10/2026 21:46:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
