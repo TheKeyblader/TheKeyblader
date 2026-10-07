@@ -31,16 +31,16 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 
 
@@ -48,28 +48,28 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TOML                     1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
-Rust                     1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.71 % 
-C#                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Rust                     38 mins             ███████████░░░░░░░░░░░░░░   44.93 % 
+TOML                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+C#                       17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       ██████████████████████░░░   87.11 % 
-Rider                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+VS Code                  1 hr 1 min          ██████████████████░░░░░░░   71.88 % 
+Rider                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🐱‍💻 Projects: 
-enx_hacker               2 hrs 48 mins       ███████████████████████░░   90.37 % 
-Enx.Atomic.Avalonia      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+enx_hacker               1 hr 7 mins         ████████████████████░░░░░   79.00 % 
+Enx.Atomic.Avalonia      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (5.19%)
+⏱ AI Coding Time: 9 mins (11.31%)
 
-✍️ 314 lines written by AI, 6,721 lines written by hand (4.46% AI-written)
+✍️ 314 lines written by AI, 70 lines written by hand (81.77% AI-written)
 
 🔤 68,835 Input Tokens, 39,488 Output Tokens
 
@@ -80,10 +80,10 @@ Enx.Atomic.Avalonia      17 mins             ██░░░░░░░░░�
 Opus                     314 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.46% of written lines came from AI
+🤖 AI-Driven — 81.77% of written lines came from AI
 📚 Verbose Prompter — average 4,517 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.59% of changed lines were hand-edited
+🚀 High AI Trust — 24.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:45:37 UTC
+ Last Updated on 07/10/2026 23:16:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
