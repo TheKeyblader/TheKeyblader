@@ -48,28 +48,28 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     38 mins             ███████████░░░░░░░░░░░░░░   44.93 % 
-TOML                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-C#                       17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+TOML                     17 mins             █████████░░░░░░░░░░░░░░░░   37.25 % 
+C#                       17 mins             █████████░░░░░░░░░░░░░░░░   36.62 % 
+Rust                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          ██████████████████░░░░░░░   71.88 % 
-Rider                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+VS Code                  23 mins             ████████████░░░░░░░░░░░░░   49.11 % 
+Rider                    17 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
+Claude Code              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 
 🐱‍💻 Projects: 
-enx_hacker               1 hr 7 mins         ████████████████████░░░░░   79.00 % 
-Enx.Atomic.Avalonia      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+enx_hacker               29 mins             ████████████████░░░░░░░░░   62.01 % 
+Enx.Atomic.Avalonia      17 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (11.31%)
+⏱ AI Coding Time: 9 mins (20.47%)
 
-✍️ 314 lines written by AI, 70 lines written by hand (81.77% AI-written)
+✍️ 314 lines written by AI, 49 lines written by hand (86.5% AI-written)
 
 🔤 68,835 Input Tokens, 39,488 Output Tokens
 
@@ -80,10 +80,10 @@ Enx.Atomic.Avalonia      17 mins             █████░░░░░░�
 Opus                     314 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.77% of written lines came from AI
+🤖 AI-Driven — 86.5% of written lines came from AI
 📚 Verbose Prompter — average 4,517 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 24.34% of changed lines were hand-edited
+🚀 High AI Trust — 15.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +103,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:16:04 UTC
+ Last Updated on 08/10/2026 23:31:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
