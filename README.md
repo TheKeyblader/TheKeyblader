@@ -48,42 +48,25 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TOML                     17 mins             █████████░░░░░░░░░░░░░░░░   37.25 % 
-C#                       17 mins             █████████░░░░░░░░░░░░░░░░   36.62 % 
-Rust                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+C#                       17 mins             ████████████░░░░░░░░░░░░░   46.28 % 
+TOML                     13 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+Rust                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  23 mins             ████████████░░░░░░░░░░░░░   49.11 % 
-Rider                    17 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
-Claude Code              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+VS Code                  19 mins             █████████████░░░░░░░░░░░░   51.99 % 
+Rider                    17 mins             ████████████░░░░░░░░░░░░░   48.01 % 
 
 🐱‍💻 Projects: 
-enx_hacker               29 mins             ████████████████░░░░░░░░░   62.01 % 
-Enx.Atomic.Avalonia      17 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
+enx_hacker               19 mins             █████████████░░░░░░░░░░░░   51.99 % 
+Enx.Atomic.Avalonia      17 mins             ████████████░░░░░░░░░░░░░   48.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (20.47%)
-
-✍️ 314 lines written by AI, 49 lines written by hand (86.5% AI-written)
-
-🔤 68,835 Input Tokens, 39,488 Output Tokens
-
-💵 $1.37 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     314 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 86.5% of written lines came from AI
-📚 Verbose Prompter — average 4,517 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 15.14% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -103,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:31:48 UTC
+ Last Updated on 09/10/2026 22:49:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
