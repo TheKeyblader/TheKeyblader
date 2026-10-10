@@ -48,19 +48,16 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       17 mins             ████████████░░░░░░░░░░░░░   46.28 % 
-TOML                     13 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
-Rust                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+C#                       17 mins             ████████████████████████░   96.39 % 
+Csproj                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████░░░░░░░░░░░░   51.99 % 
-Rider                    17 mins             ████████████░░░░░░░░░░░░░   48.01 % 
+Rider                    17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enx_hacker               19 mins             █████████████░░░░░░░░░░░░   51.99 % 
-Enx.Atomic.Avalonia      17 mins             ████████████░░░░░░░░░░░░░   48.01 % 
+Enx.Atomic.Avalonia      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +83,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:49:26 UTC
+ Last Updated on 10/10/2026 21:56:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
