@@ -29,18 +29,18 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 
 
@@ -66,11 +66,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       17 repos            ███████████████░░░░░░░░░░   60.71 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C#                       17 repos            ███████████████░░░░░░░░░░   58.62 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -80,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:30:57 UTC
+ Last Updated on 28/10/2026 22:46:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
