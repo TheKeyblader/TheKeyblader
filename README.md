@@ -48,19 +48,44 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     17 mins             █████████░░░░░░░░░░░░░░░░   34.88 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             ███████████████░░░░░░░░░░   61.73 % 
+Opencode Cli             9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Rider                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+OpenCode                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Enx.MurderBot            26 mins             █████████████░░░░░░░░░░░░   52.51 % 
+opencode                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Projet par défaut        10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 35 mins (70.5%)
+
+✍️ 188 lines written by AI, 8 lines written by hand (95.92% AI-written)
+
+🔤 132,258 Input Tokens, 51,869 Output Tokens
+
+💵 $20.45 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+DeepSeek                 188 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.92% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -80,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:46:44 UTC
+ Last Updated on 29/10/2026 22:55:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
