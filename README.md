@@ -25,22 +25,22 @@ desktop with Avalonia, and game-adjacent stuff with [bevy](https://bevy.org/).
 ### Some Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Wednesday                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Thursday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 
 
@@ -48,44 +48,44 @@ Sunday                   149 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     17 mins             █████████░░░░░░░░░░░░░░░░   34.88 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+C#                       1 hr 46 mins        ████████████░░░░░░░░░░░░░   46.39 % 
+TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  31 mins             ███████████████░░░░░░░░░░   61.73 % 
-Opencode Cli             9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Rider                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-OpenCode                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Rider                    2 hrs 20 mins       ███████████████░░░░░░░░░░   61.22 % 
+VS Code                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+OpenCode                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Opencode Cli             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🐱‍💻 Projects: 
-Enx.MurderBot            26 mins             █████████████░░░░░░░░░░░░   52.51 % 
-opencode                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Projet par défaut        10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Enx.MurderBot            3 hrs 24 mins       ██████████████████████░░░   89.39 % 
+opencode                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Projet par défaut        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (70.5%)
+⏱ AI Coding Time: 3 hrs 21 mins (87.93%)
 
-✍️ 188 lines written by AI, 8 lines written by hand (95.92% AI-written)
+✍️ 3,342 lines written by AI, 270 lines written by hand (92.52% AI-written)
 
-🔤 132,258 Input Tokens, 51,869 Output Tokens
+🔤 1,356,558 Input Tokens, 382,578 Output Tokens
 
-💵 $20.45 Estimated AI Cost This Week
+💵 $329.99 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
-DeepSeek                 188 lines           █████████████████████████   100.00 % 
+DeepSeek                 3,375 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.92% of written lines came from AI
-📝 Concise Prompter — average 23 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.08% of changed lines were hand-edited
+🤖 AI-Driven — 92.52% of written lines came from AI
+📝 Concise Prompter — average 42 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 7.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -105,7 +105,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheKeyblader/TheKeyblader/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:55:32 UTC
+ Last Updated on 30/10/2026 22:35:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
